@@ -230,7 +230,9 @@ const Contact = ({item}) => {
 
       <Text style={[ styles.contactDescription ]}>
         { name } {isOpen ? "open" : "closed"}
-        
+      </Text>
+      <Text style={[ styles.contactDescription ]}>
+        {  }
       </Text>
 
       <View style={styles.buttonContainer}>
