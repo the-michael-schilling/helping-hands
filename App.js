@@ -413,7 +413,7 @@ const Contact = ({item}) => {
           style={ isFirstSection ? styles.flag : styles.noFlag }
         />
         */
-        
+
         <Button
           title="Press me"
           color="#f194ff"
